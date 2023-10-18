@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Start {
     public static void main(String[] args) {
-        Integer a = 1;
+                Integer a = 1;
         Integer b = 2;
         int c = (int)1.0;
         Double d = 2.1;
